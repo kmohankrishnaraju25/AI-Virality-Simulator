@@ -1,4 +1,4 @@
-::: {align="center"}
+
 # 🚀 AI Virality Simulator
 
 ### Understand your video. Discover your audience. Predict engagement. Optimize for reach.
